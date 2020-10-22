@@ -1,0 +1,19 @@
+.header{
+    display: inline-block;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.total_items{
+    color: #fff;
+    background-color: #17a2b8;
+    display: inline-block;
+    padding: 1em 1em;
+    font-size: 75%;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 0.4rem;
+}
